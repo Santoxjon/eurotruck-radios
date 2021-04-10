@@ -20,7 +20,7 @@ live_stream_def : _nameless.2cf.0f23.2bf0 {
  stream_data[15]: "http://livestreaming.esradio.fm/stream64.mp3|EsRadio|Variedad|ES|96|1"
  stream_data[16]: "http://radiogestion.com:7003/mount3|Espacio4|Variedad|ES|112|1"
  stream_data[17]: "http://icecast-streaming.nice264.com/europafm|Europa FM|Exitos|ES|128|1"
- stream_data[18]: "https://nodo03-cloud01.streaming-pro.com:8001/flaixfm.mp3|FlaixFM|Exitos|ES|128|1"
+ stream_data[18]: "http://flaixfmweb.streaming-pro.com:8000|FlaixFM|Exitos|ES|128|1"
  stream_data[19]: "http://flaixbacweb.streaming-pro.com:8004/;mp3|Flaixbac|Exitos|ES|128|1"
  stream_data[20]: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3|Gaztea|Exitos|ESP|128|1"
  stream_data[21]: "https://server.spainbroadcast.net:10998/stream/1/|Gozadera FM|Reggaeton|ES|128|1"
