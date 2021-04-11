@@ -12,3 +12,7 @@ Lista de radios que sé que NO funcionan
 - Radio 5
 - Radio Exterior
 - Rosse FM
+- Cadena Luna
+- Rumbera FM
+- Via Radio
+- Radio Humor
